@@ -1,0 +1,8 @@
+F:\Udemy Learning\AppslabHR\Response\bin\Debug\netstandard2.0\Response.deps.json
+F:\Udemy Learning\AppslabHR\Response\bin\Debug\netstandard2.0\Response.dll
+F:\Udemy Learning\AppslabHR\Response\bin\Debug\netstandard2.0\Response.pdb
+F:\Udemy Learning\AppslabHR\Response\obj\Debug\netstandard2.0\Response.csprojAssemblyReference.cache
+F:\Udemy Learning\AppslabHR\Response\obj\Debug\netstandard2.0\Response.AssemblyInfoInputs.cache
+F:\Udemy Learning\AppslabHR\Response\obj\Debug\netstandard2.0\Response.AssemblyInfo.cs
+F:\Udemy Learning\AppslabHR\Response\obj\Debug\netstandard2.0\Response.dll
+F:\Udemy Learning\AppslabHR\Response\obj\Debug\netstandard2.0\Response.pdb

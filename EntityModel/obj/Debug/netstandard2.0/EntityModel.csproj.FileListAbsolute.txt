@@ -1,0 +1,8 @@
+F:\Udemy Learning\AppslabHR\EntityModel\bin\Debug\netstandard2.0\EntityModel.deps.json
+F:\Udemy Learning\AppslabHR\EntityModel\bin\Debug\netstandard2.0\EntityModel.dll
+F:\Udemy Learning\AppslabHR\EntityModel\obj\Debug\netstandard2.0\EntityModel.csprojAssemblyReference.cache
+F:\Udemy Learning\AppslabHR\EntityModel\obj\Debug\netstandard2.0\EntityModel.AssemblyInfoInputs.cache
+F:\Udemy Learning\AppslabHR\EntityModel\obj\Debug\netstandard2.0\EntityModel.AssemblyInfo.cs
+F:\Udemy Learning\AppslabHR\EntityModel\bin\Debug\netstandard2.0\EntityModel.pdb
+F:\Udemy Learning\AppslabHR\EntityModel\obj\Debug\netstandard2.0\EntityModel.dll
+F:\Udemy Learning\AppslabHR\EntityModel\obj\Debug\netstandard2.0\EntityModel.pdb
